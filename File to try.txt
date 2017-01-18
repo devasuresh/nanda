@@ -1,0 +1,2 @@
+Added by not commited, when different branch is checkout the file appears there as well.
+ 
